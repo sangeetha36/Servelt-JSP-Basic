@@ -1,0 +1,29 @@
+.........errorpagenotfound.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1 >Please check the no.of your glasses or get one! </h1>
+</body>
+</html>
+
+
+
+
+.....................homepage.html
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1> hello..</h1>
+</body>
+</html>
